@@ -1,0 +1,21 @@
+body{    
+    background-color: rgb(228, 28, 161);  
+    box-sizing: border-box;
+    font-family: Georgia;
+  }
+  
+  
+  
+  
+  #citation{
+      margin: 25px auto;
+      background-color: #3111a7;   
+      color: #ffffff; 
+      width: 50%;
+      height: 300px;
+      font-size: 1.5rem;    
+      justify-content: center;
+      display: flex;
+      padding: 5px;
+    
+  }
